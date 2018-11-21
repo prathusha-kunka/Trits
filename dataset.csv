@@ -1,0 +1,600 @@
+As of Date,Fund Name,Donor Name,Donor Country Code,Receipt Type,Receipt Quarter,Calendar Year,Receipt Currency,Receipt Amount,Contribution Type,Sub Account,Amount in USD,Sector/Theme
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,OCT-DEC,2011,EUR,1420000,Grant,GF05,1916858.01,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,OCT-DEC,2011,EUR,10650000,Grant,GF05,14360460,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Note,OCT-DEC,2011,JPY,12094270000,Grant,GF05,1556532.55,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,OCT-DEC,2011,NZD,2480000,Grant,GF05,1890752,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,JAN-MAR,2012,CHF,31232500,Grant,GF05,33224196.53,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Cash,OCT-DEC,2011,EUR,12313010.96,Grant,GF05,16090642.72,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Cash,OCT-DEC,2011,EUR,6606989.04,Grant,GF05,8634013.28,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,OCT-DEC,2011,EUR,27000000,Grant,GF05,35283600,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,JAN-MAR,2012,EUR,20725000,Grant,GF05,27207780,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovenia,SI,Note,OCT-DEC,2011,EUR,1200000,Grant,GF05,1606920,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,OCT-DEC,2011,EUR,86750000,Grant,GF05,117567937.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,OCT-DEC,2011,MXN,28547500,Grant,GF05,2000894.28,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,JAN-MAR,2012,INR,117450000,Grant,GF05,2362703.68,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,OCT-DEC,2011,AUD,26250000,Grant,GF05,26085937.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Cash,JAN-MAR,2012,USD,53930000,Grant,GF05,53930000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,China,CN,Cash,OCT-DEC,2011,USD,3445000,Grant,GF05,3445000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,OCT-DEC,2011,EUR,15000000,Grant,GF05,19486500,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,OCT-DEC,2011,EUR,17000000,Grant,GF05,22215600,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,OCT-DEC,2011,GBP,52500000,Grant,GF05,82383000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,JAN-MAR,2012,EUR,1110000,Grant,GF05,1479519,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Cash,JAN-MAR,2012,USD,35890000,Grant,GF05,35890000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,JUL-SEP,1991,EUR,9689687,Grant,GF00,9689687,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,JUL-SEP,1992,EUR,9689687,Grant,GF00,9689687,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,JUL-SEP,1993,EUR,9689759.66,Grant,GF00,9689759.66,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,APR-JUN,1994,AUD,16400000,Grant,GF00,16400000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,JUL-SEP,1992,EUR,3215502.05,Grant,GF00,3215502.05,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,APR-JUN,1993,EUR,1705985.71,Grant,GF00,1705985.71,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Brazil,BR,Note,APR-JUN,1999,XDR,4000000,Grant,GF00,5400200,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,JAN-MAR,1992,CAD,3333334,Grant,GF00,3333334,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,JUL-SEP,1992,CAD,3333333,Grant,GF00,3333333,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,JUL-SEP,1993,CAD,3333333,Grant,GF00,3333333,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,JUL-SEP,1991,XDR,10020000,Grant,GF00,10020000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,JUL-SEP,1992,XDR,10020000,Grant,GF00,10020000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,JUL-SEP,1993,XDR,10020000,Grant,GF00,10020000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Cote d'Ivoire,CI,Note,APR-JUN,1999,XDR,2000000,Grant,GF00,2700100,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,China,CN,Note,APR-JUN,1991,XDR,4000000,Grant,GF00,4000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,JUL-SEP,1991,EUR,40949735.75,Grant,GF00,40949735.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,JAN-MAR,1992,EUR,40949735.75,Grant,GF00,40949735.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,JAN-MAR,1993,EUR,40949735.7,Grant,GF00,40949735.7,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Note,OCT-DEC,1991,XDR,5420000,Grant,GF00,5420000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Note,JUL-SEP,1992,XDR,5420000,Grant,GF00,5420000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Note,JUL-SEP,1993,XDR,5410000,Grant,GF00,5410000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Egypt, Arab Republic of",EG,Note,JUL-SEP,1992,XDR,4000000,Grant,GF00,4000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Spain,ES,Note,APR-JUN,1994,XDR,10000000,Grant,GF00,10000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Note,JUL-SEP,1991,EUR,5886577.42,Grant,GF00,5886577.42,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Note,JUL-SEP,1992,EUR,5886577.43,Grant,GF00,5886577.43,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Note,JUL-SEP,1993,EUR,5886577.42,Grant,GF00,5886577.42,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Note,JUL-SEP,1991,EUR,42536324.79,Grant,GF00,42536324.79,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Note,JUL-SEP,1992,EUR,42536324.79,Grant,GF00,42536324.79,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Note,JUL-SEP,1993,EUR,37926626.72,Grant,GF00,37926626.72,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,JUL-SEP,1992,GBP,13433333,Grant,GF00,13433333,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,JUL-SEP,1993,GBP,13433333,Grant,GF00,13433333,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,JUL-SEP,1991,GBP,13433334,Grant,GF00,13433334,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Indonesia,ID,Note,APR-JUN,1999,XDR,4000000,Grant,GF00,5400200,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Note,JUL-SEP,1991,XDR,4000000,Grant,GF00,4000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Cash,JUL-SEP,1992,EUR,54227974.4,Grant,GF00,54227974.4,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Cash,OCT-DEC,1992,JPY,3000000000,Grant,GF00,30000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Cash,JAN-MAR,1994,JPY,1000000000,Grant,GF00,10000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Cash,JUL-SEP,1991,USD,10000000,Grant,GF00,10000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Note,APR-JUN,1991,USD,5480000,Grant,GF00,5480000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Nigeria,NG,Note,APR-JUN,1999,XDR,4000000,Grant,GF00,5400200,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,JUL-SEP,1991,XDR,37740000,Grant,GF00,37740000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,JUL-SEP,1991,NOK,55000000,Grant,GF00,55000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,JUL-SEP,1992,NOK,55000000,Grant,GF00,55000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,JUL-SEP,1993,NOK,55000000,Grant,GF00,55000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Pakistan,PK,Note,APR-JUN,1999,XDR,4000000,Grant,GF00,5400200,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,OCT-DEC,1992,XDR,1500000,Grant,GF00,1500000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,OCT-DEC,1992,XDR,1500000,Grant,GF00,1500000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,JUL-SEP,1993,XDR,1500000,Grant,GF00,1500000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Note,JUL-SEP,1991,SEK,65355746,Grant,GF00,65355746,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Note,JUL-SEP,1992,SEK,65355746,Grant,GF00,65355746,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Note,JUL-SEP,1993,SEK,65355746,Grant,GF00,65355746,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,JUL-SEP,1991,XDR,4000000,Grant,GF00,4000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Argentina,AR,Cash,JAN-MAR,1997,USD,500000,Grant,GF01,500000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Argentina,AR,Cash,JAN-MAR,1998,USD,500000,Grant,GF01,500000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,APR-JUN,1999,EUR,5608162.61,Grant,GF01,5886888.29,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,APR-JUN,1999,EUR,2804081.3,Grant,GF01,2943444.14,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,APR-JUN,1999,EUR,4206121.96,Grant,GF01,4415166.22,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,APR-JUN,1999,EUR,4206121.96,Grant,GF01,4415166.22,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,OCT-DEC,1994,AUD,10690000,Grant,GF01,10690000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,APR-JUN,1999,AUD,10690000,Grant,GF01,7105643,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,APR-JUN,1999,AUD,10690000,Grant,GF01,7105643,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,APR-JUN,1999,AUD,10690000,Grant,GF01,7105643,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Bangladesh,BD,Note,OCT-DEC,1994,XDR,500000,Grant,GF01,500000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Bangladesh,BD,Note,APR-JUN,1999,XDR,500000,Grant,GF01,675025,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Bangladesh,BD,Note,APR-JUN,1999,XDR,500000,Grant,GF01,675025,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Bangladesh,BD,Note,APR-JUN,1999,XDR,500000,Grant,GF01,675025,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,OCT-DEC,1995,EUR,2107094.96,Grant,GF01,2107094.96,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,JAN-MAR,1996,EUR,1859201.43,Grant,GF01,1859201.43,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,JAN-MAR,1996,EUR,3966296.41,Grant,GF01,3966296.41,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,APR-JUN,1996,EUR,9667847.46,Grant,GF01,9667847.46,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,JUL-SEP,1997,EUR,9667847.46,Grant,GF01,9667847.46,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,1999,CAD,37000000,Grant,GF01,25347590,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,1999,CAD,18555000,Grant,GF01,12711473.85,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,1999,CAD,18445000,Grant,GF01,12636116.15,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,1999,CAD,9332500,Grant,GF01,6393415.78,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,1999,CAD,27777500,Grant,GF01,19029531.93,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,OCT-DEC,1994,XDR,7992500,Grant,GF01,7992500,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,APR-JUN,1999,XDR,7992500,Grant,GF01,10790274.63,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,APR-JUN,1999,XDR,7992500,Grant,GF01,10790274.63,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,APR-JUN,1999,XDR,7992500,Grant,GF01,10790274.63,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Cote d'Ivoire,CI,Note,OCT-DEC,1994,XDR,1000000,Grant,GF01,1000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Cote d'Ivoire,CI,Note,APR-JUN,1999,XDR,1000000,Grant,GF01,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Cote d'Ivoire,CI,Note,APR-JUN,1999,XDR,1000000,Grant,GF01,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Cote d'Ivoire,CI,Note,APR-JUN,1999,XDR,1000000,Grant,GF01,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,China,CN,Cash,OCT-DEC,1994,USD,4803396,Grant,GF01,4803396,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Czech Republic,CZ,Cash,OCT-DEC,1994,USD,1459240,Grant,GF01,1459240,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Czech Republic,CZ,Cash,OCT-DEC,1995,USD,1487900,Grant,GF01,1487900,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Czech Republic,CZ,Cash,OCT-DEC,1996,USD,1448160,Grant,GF01,1448160,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Czech Republic,CZ,Cash,OCT-DEC,1997,USD,1363820,Grant,GF01,1363820,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Note,OCT-DEC,1994,XDR,6270000,Grant,GF01,6270000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Note,APR-JUN,1999,XDR,6270000,Grant,GF01,8464813.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Note,APR-JUN,1999,XDR,6270000,Grant,GF01,8464813.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Note,APR-JUN,1999,XDR,6270000,Grant,GF01,8464813.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Egypt, Arab Republic of",EG,Cash,JUL-SEP,1997,USD,1400002,Grant,GF01,1400002,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Egypt, Arab Republic of",EG,Cash,APR-JUN,1997,USD,695825,Grant,GF01,695825,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Spain,ES,Note,APR-JUN,1997,EUR,13102664.88,Grant,GF01,13102664.88,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,OCT-DEC,1994,EUR,11638032.67,Grant,GF01,11638032.67,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,JAN-MAR,1996,EUR,5818141.76,Grant,GF01,5818141.76,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Note,OCT-DEC,1994,EUR,30745536.68,Grant,GF01,30745536.68,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Note,APR-JUN,1999,EUR,30745536.68,Grant,GF01,31678663.72,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Note,APR-JUN,1999,EUR,30745536.67,Grant,GF01,32273589.84,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Note,APR-JUN,1999,EUR,30745536.67,Grant,GF01,32273589.84,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,OCT-DEC,1994,GBP,22387000,Grant,GF01,22387000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,APR-JUN,1999,GBP,22387000,Grant,GF01,35983744.45,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,APR-JUN,1999,GBP,22387000,Grant,GF01,35983744.45,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,APR-JUN,1999,GBP,22387000,Grant,GF01,35983744.45,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,OCT-DEC,1995,USD,1250000,Grant,GF01,1250000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,OCT-DEC,1996,USD,1250000,Grant,GF01,1250000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,OCT-DEC,1996,USD,1250000,Grant,GF01,1250000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,OCT-DEC,1997,USD,1250000,Grant,GF01,1250000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,JUL-SEP,1996,EUR,1041185.23,Grant,GF01,1041185.23,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,JAN-MAR,1997,EUR,520592.61,Grant,GF01,520592.61,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,OCT-DEC,1997,EUR,520592.61,Grant,GF01,520592.61,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,JUL-SEP,1995,USD,2339310,Grant,GF01,2339310,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,OCT-DEC,1995,USD,2239635,Grant,GF01,2239635,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,OCT-DEC,1996,USD,2172240,Grant,GF01,2172240,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,OCT-DEC,1997,USD,2045730,Grant,GF01,2045730,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Note,APR-JUN,1996,EUR,20632969.58,Grant,GF01,20632969.58,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Note,APR-JUN,1999,JPY,34273567500,Grant,GF01,2896116.45,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Note,JAN-MAR,1995,JPY,11424522500,Grant,GF01,114245225,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,APR-JUN,1995,USD,1150000,Grant,GF01,1150000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,JAN-MAR,1996,USD,2140000,Grant,GF01,2140000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,JAN-MAR,1997,USD,2129000,Grant,GF01,2129000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,OCT-DEC,1997,USD,79150,Grant,GF01,79150,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,APR-JUN,1997,XDR,1000000,Grant,GF01,1391710,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,APR-JUN,1999,XDR,1000000,Grant,GF01,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,APR-JUN,1999,XDR,1000000,Grant,GF01,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,APR-JUN,1999,XDR,1000000,Grant,GF01,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,APR-JUN,1996,USD,1303000,Grant,GF01,1303000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,JAN-MAR,1996,USD,1261285,Grant,GF01,1261285,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,APR-JUN,1997,USD,1282000,Grant,GF01,1282000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,APR-JUN,1998,USD,1388000,Grant,GF01,1388000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,OCT-DEC,1994,XDR,5000000,Grant,GF01,5000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,OCT-DEC,1994,XDR,5000000,Grant,GF01,5000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,OCT-DEC,1994,XDR,2742500,Grant,GF01,2742500,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,1999,XDR,5000000,Grant,GF01,6750250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,1999,XDR,5000000,Grant,GF01,6750250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,1999,XDR,2742500,Grant,GF01,3702512.13,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,1999,XDR,5000000,Grant,GF01,6750250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,1999,XDR,5000000,Grant,GF01,6750250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,1999,XDR,2742500,Grant,GF01,3702512.13,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,1999,XDR,5000000,Grant,GF01,6750250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,1999,XDR,5000000,Grant,GF01,6750250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,1999,XDR,2742500,Grant,GF01,3702512.13,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,OCT-DEC,1994,NOK,55000000,Grant,GF01,55000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,APR-JUN,1999,NOK,55000000,Grant,GF01,7042750,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,APR-JUN,1999,NOK,55000000,Grant,GF01,7042750,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,APR-JUN,1999,NOK,55000000,Grant,GF01,7042750,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,OCT-DEC,1994,NZD,2587500,Grant,GF01,2587500,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,APR-JUN,1999,NZD,2587500,Grant,GF01,1399578.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,APR-JUN,1999,NZD,2587500,Grant,GF01,1399578.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,APR-JUN,1999,NZD,2587500,Grant,GF01,1399578.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Pakistan,PK,Note,APR-JUN,1999,XDR,1000000,Grant,GF01,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Pakistan,PK,Note,APR-JUN,1999,XDR,1000000,Grant,GF01,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Pakistan,PK,Note,APR-JUN,1999,XDR,1000000,Grant,GF01,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Pakistan,PK,Note,APR-JUN,1999,XDR,1000000,Grant,GF01,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,JAN-MAR,1995,EUR,1112654.5,Grant,GF01,1112654.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,APR-JUN,1999,EUR,1112654.5,Grant,GF01,1167953.43,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,APR-JUN,1999,EUR,1112654.5,Grant,GF01,1167953.43,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,APR-JUN,1999,EUR,1112654.5,Grant,GF01,1167953.43,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Cash,APR-JUN,1995,SEK,112510000,Grant,GF01,112510000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Cash,APR-JUN,1995,SEK,112510000,Grant,GF01,112510000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Cash,JAN-MAR,1996,SEK,112510000,Grant,GF01,112510000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Cash,JAN-MAR,1997,SEK,15720000,Grant,GF01,2054289.6,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovak Republic,SK,Cash,JAN-MAR,1996,USD,1414015,Grant,GF01,1414015,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovak Republic,SK,Cash,JAN-MAR,1996,USD,1414015,Grant,GF01,1414015,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovak Republic,SK,Cash,OCT-DEC,1996,USD,1460657,Grant,GF01,1460657,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovak Republic,SK,Cash,OCT-DEC,1997,USD,1369096,Grant,GF01,1369096,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,JUL-SEP,1995,XDR,1000000,Grant,GF01,1000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,APR-JUN,1999,XDR,1000000,Grant,GF01,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,APR-JUN,1999,XDR,1000000,Grant,GF01,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,APR-JUN,1999,XDR,1000000,Grant,GF01,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,APR-JUN,1999,USD,120000000,Grant,GF01,120000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,APR-JUN,1999,USD,25000000,Grant,GF01,25000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,APR-JUN,1999,USD,35000000,Grant,GF01,35000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,JAN-MAR,1996,USD,35000000,Grant,GF01,35000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,APR-JUN,1999,USD,80833333,Grant,GF01,80833333,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,APR-JUN,1999,USD,22500000,Grant,GF01,22500000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,APR-JUN,1999,USD,19166667,Grant,GF01,19166667,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,APR-JUN,1999,USD,67500000,Grant,GF01,67500000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,APR-JUN,1999,AUD,10817500,Grant,GF02,7190392.25,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,JAN-MAR,1999,EUR,7736075.2,Grant,GF02,8951799.42,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,1999,CAD,30000000,Grant,GF02,20552100,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,APR-JUN,1999,CHF,16095000,Grant,GF02,10578760.65,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Cote d'Ivoire,CI,Note,APR-JUN,1999,XDR,1000000,Grant,GF02,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,China,CN,Cash,OCT-DEC,1998,USD,1711206,Grant,GF02,1711206,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Czech Republic,CZ,Cash,OCT-DEC,1998,USD,1408180,Grant,GF02,1408180,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,APR-JUN,1999,EUR,49748700.04,Grant,GF02,51258573.09,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,JAN-MAR,1998,EUR,6643423.09,Grant,GF02,6643423.09,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,OCT-DEC,1998,EUR,3195570.6,Grant,GF02,3688167.81,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,APR-JUN,1999,GBP,21312500,Grant,GF02,34256646.88,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,JAN-MAR,1999,GRD,382925000,Grant,GF02,13747.01,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,JAN-MAR,1999,EUR,539638.68,Grant,GF02,634480.18,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,JAN-MAR,1999,INR,80957500,Grant,GF02,1905739.55,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Note,APR-JUN,1999,JPY,12188582500,Grant,GF02,1029935.22,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,OCT-DEC,1998,KRW,630000000,Grant,GF02,5229,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,1999,XDR,3315625,Grant,GF02,4476259.53,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,1999,XDR,3315625,Grant,GF02,4476259.53,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,1999,XDR,3315625,Grant,GF02,4476259.53,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,1999,XDR,3315625,Grant,GF02,4476259.53,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,APR-JUN,1999,NOK,57080000,Grant,GF02,7309094,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,APR-JUN,1999,NZD,2077500,Grant,GF02,1123719.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,APR-JUN,1999,EUR,1225496.56,Grant,GF02,1286403.74,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovenia,SI,Cash,OCT-DEC,1998,USD,456436,Grant,GF02,456436,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,APR-JUN,1999,XDR,1000000,Grant,GF02,1350050,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,OCT-DEC,1994,XDR,42826000,Grant,GF01,42826000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,APR-JUN,1999,XDR,42824000,Grant,GF01,57814541.2,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,APR-JUN,1999,XDR,42824000,Grant,GF01,57814541.2,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,APR-JUN,1999,XDR,42826000,Grant,GF01,57817241.3,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,APR-JUN,1999,USD,1325250,Grant,GF02,1325250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Note,JUL-SEP,1999,EUR,20632775.89,Grant,GF01,22017235.15,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Note,JUL-SEP,1999,EUR,20632872.74,Grant,GF01,22017338.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Note,JUL-SEP,1999,EUR,20632872.74,Grant,GF01,22017338.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Egypt, Arab Republic of",EG,Cash,JUL-SEP,1999,EGP,1700000,Grant,GF01,4985250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,JUL-SEP,1999,EUR,4199399.72,Grant,GF02,4531572.24,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,JUL-SEP,1999,EUR,0.01,Grant,GF02,0.01,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Argentina,AR,Cash,JUL-SEP,1999,USD,246350,Grant,GF01,246350,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,JUL-SEP,1999,EUR,1241750,Grant,GF02,1296449.09,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,OCT-DEC,1999,KRW,630000000,Grant,GF02,5166,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovenia,SI,Cash,OCT-DEC,1999,USD,463764,Grant,GF02,463764,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Note,OCT-DEC,1999,DKK,48290000,Grant,GF02,6837864,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,OCT-DEC,1999,EUR,1225496.55,Grant,GF02,1275803.18,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Spain,ES,Note,APR-JUN,2000,EUR,3701723.7,Grant,GF02,3554950.36,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Czech Republic,CZ,Cash,OCT-DEC,1999,USD,1372940,Grant,GF02,1372940,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,OCT-DEC,1999,CHF,16095000,Grant,GF02,10123915.95,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,OCT-DEC,1999,XDR,1000000,Grant,GF02,1369630,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,OCT-DEC,1999,FIM,18999999.98,Grant,GF02,3246910,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Cote d'Ivoire,CI,Note,OCT-DEC,1999,XDR,1000000,Grant,GF02,1372940,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Argentina,AR,Cash,OCT-DEC,1999,USD,253650,Grant,GF01,253650,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,OCT-DEC,1999,GRD,382925000,Grant,GF02,11794.09,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,OCT-DEC,1999,NZD,2077500,Grant,GF02,1066588.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,JAN-MAR,2000,NOK,57080000,Grant,GF02,7112168,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,JAN-MAR,2000,USD,1853422.62,Grant,GF02,1853422.62,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Note,JAN-MAR,2000,SEK,224035000,Grant,GF02,25667689.95,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Note,JAN-MAR,2000,SEK,112017500,Grant,GF02,12833844.98,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Note,JAN-MAR,2000,SEK,112017500,Grant,GF02,12833844.98,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,China,CN,Cash,OCT-DEC,1999,USD,1668122.1,Grant,GF02,1668122.1,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,APR-JUN,2000,GBP,21312500,Grant,GF02,33698259.38,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,OCT-DEC,1999,FIM,11000000,Grant,GF02,1879790,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Note,APR-JUN,2000,JPY,12188582500,Grant,GF02,1148164.47,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,APR-JUN,2000,USD,10800000,Grant,GF02,10800000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,APR-JUN,2000,USD,25000000,Grant,GF01,25000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,2000,XDR,3315625,Grant,GF02,4366280.25,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,2000,XDR,3315625,Grant,GF02,4366280.25,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,2000,XDR,3315625,Grant,GF02,4366280.25,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,2000,XDR,3315625,Grant,GF02,4366280.25,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,APR-JUN,2000,EUR,4199399.71,Grant,GF02,3747754.27,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,APR-JUN,2000,AUD,10817500,Grant,GF02,6360149.13,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,APR-JUN,2000,EUR,1241750,Grant,GF02,1108075.61,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,2000,CAD,30000000,Grant,GF02,20053500,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Note,APR-JUN,2000,ITL,10000000000,Grant,GF02,47000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Note,APR-JUN,2000,EUR,32875630.57,Grant,GF02,29578204.82,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,JAN-MAR,2000,IEP,1175000,Grant,GF02,1437119,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,APR-JUN,2000,EUR,49748700.04,Grant,GF02,47920435.31,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,APR-JUN,2000,BEF,312072500,Grant,GF02,74554.12,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,JUL-SEP,2000,USD,1325250,Grant,GF02,1325250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Argentina,AR,Cash,JUL-SEP,2000,USD,500000,Grant,GF01,500000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovenia,SI,Cash,OCT-DEC,2000,USD,430533,Grant,GF02,430533,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Note,OCT-DEC,2000,EUR,32875630.57,Grant,GF02,27464301.78,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Note,OCT-DEC,2000,DKK,48290000,Grant,GF02,5513269.3,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,OCT-DEC,2000,NZD,2077500,Grant,GF02,832765.88,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,OCT-DEC,2000,GBP,21312500,Grant,GF02,30173171.88,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,OCT-DEC,2000,EUR,49748700.04,Grant,GF02,42458028.05,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,OCT-DEC,2000,CHF,16095000,Grant,GF02,8937392.55,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Czech Republic,CZ,Cash,OCT-DEC,2000,USD,1275300,Grant,GF02,1275300,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,China,CN,Cash,OCT-DEC,2000,USD,1557994.5,Grant,GF02,1557994.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,OCT-DEC,2000,EUR,4199399.72,Grant,GF02,3573479.19,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,OCT-DEC,2000,XDR,1000000,Grant,GF02,1276270,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,OCT-DEC,2000,EUR,1225496.55,Grant,GF02,1042836.29,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,OCT-DEC,2000,GRD,382925000,Grant,GF02,9573.13,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,OCT-DEC,2000,AUD,10817500,Grant,GF02,5671074.38,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,OCT-DEC,2000,NOK,57080000,Grant,GF02,6139524.8,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,OCT-DEC,2000,IEP,1100000,Grant,GF02,1199704,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,OCT-DEC,2000,EUR,1241750,Grant,GF02,1101370.16,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,OCT-DEC,2000,KRW,630000000,Grant,GF02,5229,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Note,OCT-DEC,2000,DKK,48290000,Grant,GF02,5725745.3,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Note,OCT-DEC,2000,JPY,12188582500,Grant,GF02,1082346.13,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Spain,ES,Note,OCT-DEC,2000,EUR,3701723.7,Grant,GF02,3322482.11,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Spain,ES,Note,JAN-MAR,2001,EUR,3701723.7,Grant,GF02,3473697.52,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Spain,ES,Note,JAN-MAR,2001,EUR,3701723.71,Grant,GF02,3473697.53,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,JAN-MAR,2001,XDR,3315625,Grant,GF02,4300465.09,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,JAN-MAR,2001,XDR,3315625,Grant,GF02,4300465.09,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,JAN-MAR,2001,XDR,3315625,Grant,GF02,4300465.09,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,JAN-MAR,2001,XDR,3315625,Grant,GF02,4300465.09,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,JAN-MAR,2001,USD,1744773.71,Grant,GF02,1744773.71,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Pakistan,PK,Note,JAN-MAR,2001,XDR,1000000,Grant,GF02,1297790,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Pakistan,PK,Note,JAN-MAR,2001,XDR,1000000,Grant,GF02,1297790,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Pakistan,PK,Note,JAN-MAR,2001,XDR,1000000,Grant,GF02,1297790,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Note,JAN-MAR,2001,ITL,26000000000,Grant,GF02,127400,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,JAN-MAR,2001,USD,107762400,Grant,GF02,107762400,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,2001,CAD,7500000,Grant,GF02,4746375,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,2001,CAD,22500000,Grant,GF02,14670000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,2001,CAD,1567500,Grant,GF02,1022010,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,APR-JUN,2001,IEP,899000,Grant,GF02,968214.01,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,APR-JUN,2001,USD,1325250,Grant,GF02,1325250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,APR-JUN,2001,IEP,91000,Grant,GF02,98006.09,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Cote d'Ivoire,CI,Note,APR-JUN,2001,XDR,1000000,Grant,GF02,1247610,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,JUL-SEP,2001,BEF,312072500,Grant,GF02,66252.99,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Argentina,AR,Cash,JUL-SEP,2001,USD,500000,Grant,GF01,500000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Note,JUL-SEP,2001,EUR,32875630.57,Grant,GF02,30405026.93,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,OCT-DEC,2001,EUR,49748700.04,Grant,GF02,44602197.02,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,OCT-DEC,2001,CHF,16095000,Grant,GF02,9615796.8,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,OCT-DEC,2001,GBP,21312500,Grant,GF02,30604750,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Czech Republic,CZ,Cash,OCT-DEC,2001,USD,1258810,Grant,GF02,1258810,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,OCT-DEC,2001,EUR,1225496.55,Grant,GF02,1081684.53,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,OCT-DEC,2001,EUR,4199399.72,Grant,GF02,3686653.01,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Note,OCT-DEC,2001,JPY,12188582500,Grant,GF02,988494.04,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,OCT-DEC,2001,AUD,10817500,Grant,GF02,5599678.88,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,China,CN,Cash,OCT-DEC,2001,USD,1539502.02,Grant,GF02,1539502.02,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,OCT-DEC,2001,EUR,1123771.09,Grant,GF02,1000043.89,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,OCT-DEC,2001,NOK,57080000,Grant,GF02,6392389.2,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,OCT-DEC,2001,XDR,1000000,Grant,GF02,1265940,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Note,OCT-DEC,2001,DKK,48290000,Grant,GF02,5783210.4,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Cote d'Ivoire,CI,Note,OCT-DEC,2001,XDR,1000000,Grant,GF02,1266250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,OCT-DEC,2001,EUR,1241750,Grant,GF02,1105033.33,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Nigeria,NG,Cash,OCT-DEC,2001,USD,1288360,Grant,GF02,1288360,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Nigeria,NG,Cash,OCT-DEC,2001,USD,1266711.08,Grant,GF02,1266711.08,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Nigeria,NG,Cash,OCT-DEC,2001,USD,1266711.09,Grant,GF02,1266711.09,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Nigeria,NG,Cash,OCT-DEC,2001,USD,1266711.09,Grant,GF02,1266711.09,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,OCT-DEC,2001,XDR,3315625,Grant,GF02,4185943.41,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,OCT-DEC,2001,XDR,3315625,Grant,GF02,4185943.41,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,OCT-DEC,2001,XDR,3315625,Grant,GF02,4185943.41,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,OCT-DEC,2001,XDR,3315625,Grant,GF02,4185943.41,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,OCT-DEC,2001,NZD,2077500,Grant,GF02,867044.63,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,OCT-DEC,2001,KRW,3003670000,Grant,GF02,23428.63,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,OCT-DEC,2001,KRW,40000000,Grant,GF02,312,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Note,JAN-MAR,2002,EUR,32875630.56,Grant,GF02,28978224.56,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Note,JAN-MAR,2002,EUR,18075991.47,Grant,GF02,15700806.19,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,JAN-MAR,2002,USD,1662030.38,Grant,GF02,1662030.38,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,2002,CAD,29128500,Grant,GF02,18285415.88,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,2002,CAD,697000,Grant,GF02,437541.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,2002,CAD,697000,Grant,GF02,437541.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,APR-JUN,2002,USD,96437600,Grant,GF02,96437600,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,APR-JUN,2002,USD,4062400,Grant,GF02,4062400,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,JUL-SEP,2002,USD,1174575,Grant,GF02,1174575,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,JUL-SEP,2002,EUR,7736071.49,Grant,GF02,7659871.19,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Brazil,BR,Note,OCT-DEC,2002,XDR,4000000,Grant,GF01,5290760,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,JAN-MAR,2003,USD,952403,Grant,GF03,952403,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Czech Republic,CZ,Cash,JAN-MAR,2003,USD,1324810,Grant,GF03,1324810,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,JAN-MAR,2003,USD,1109000,Grant,GF03,1109000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovenia,SI,Cash,JAN-MAR,2003,USD,349604.02,Grant,GF03,349604.02,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Cash,JAN-MAR,2003,DKK,65210000,Grant,GF03,9495449.58,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,JAN-MAR,2003,EUR,3364000,Grant,GF03,3637829.6,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Note,JAN-MAR,2003,EUR,258228.45,Grant,GF02,276937.1,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Note,JAN-MAR,2003,EUR,12136737.13,Grant,GF02,13016043.74,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,JAN-MAR,2003,NOK,57080000,Grant,GF03,7802836,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,JAN-MAR,2003,XDR,1000000,Grant,GF03,1363920,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,JAN-MAR,2003,USD,107500000,Grant,GF03,107500000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,JAN-MAR,2003,USD,39351752,Grant,GF02,39351752,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,JAN-MAR,2003,NZD,3033750,Grant,GF03,1670231.06,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Cote d'Ivoire,CI,Note,JAN-MAR,2003,XDR,1000000,Grant,GF03,1363920,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Cote d'Ivoire,CI,Note,JAN-MAR,2003,XDR,1000000,Grant,GF03,1363920,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Cote d'Ivoire,CI,Note,JAN-MAR,2003,XDR,1000000,Grant,GF03,1363920,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Cote d'Ivoire,CI,Note,JAN-MAR,2003,XDR,1000000,Grant,GF03,1363920,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Cash,APR-JUN,2003,EUR,41000000,Grant,GF03,44047940,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,APR-JUN,2003,USD,73416561,Grant,GF03,73416561,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,2003,CAD,39735000,Grant,GF03,26892648,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,China,CN,Cash,APR-JUN,2003,USD,2340000,Grant,GF03,2340000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Note,APR-JUN,2003,SEK,191167500,Grant,GF03,22823487.83,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Note,APR-JUN,2003,SEK,191167500,Grant,GF03,22823487.83,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Note,APR-JUN,2003,SEK,191167500,Grant,GF03,22823487.83,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Note,APR-JUN,2003,SEK,191167500,Grant,GF03,22823487.83,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Note,APR-JUN,2003,JPY,12188582500,Grant,GF03,1025059.79,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,APR-JUN,2003,AUD,17040000,Grant,GF03,10540092,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,APR-JUN,2003,EUR,1432500,Grant,GF03,1667430,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,APR-JUN,2003,EUR,36500,Grant,GF03,42486,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,APR-JUN,2003,EUR,1432500,Grant,GF03,1676025,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,APR-JUN,2003,EUR,90,Grant,GF03,105.3,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,APR-JUN,2003,INR,106597500,Grant,GF03,2287990.99,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,APR-JUN,2003,USD,550294,Grant,GF03,550294,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,APR-JUN,2003,USD,952403,Grant,GF03,952403,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,JUL-SEP,2003,GBP,29457500,Grant,GF03,48607820.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,JUL-SEP,2003,EUR,1432500,Grant,GF03,1622091.38,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,JUL-SEP,2003,CHF,24767500,Grant,GF03,18035693.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,JUL-SEP,2003,EUR,6095000,Grant,GF03,6692310,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,JUL-SEP,2003,EUR,10494996.29,Grant,GF03,11844652.81,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,JUL-SEP,2003,EUR,7358000,Grant,GF03,8602973.6,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,OCT-DEC,2003,CHF,24767500,Grant,GF03,18342810.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Cash,OCT-DEC,2003,DKK,65210000,Grant,GF03,10601200.74,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Czech Republic,CZ,Cash,OCT-DEC,2003,USD,1423630,Grant,GF03,1423630,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,China,CN,Cash,OCT-DEC,2003,USD,2415000,Grant,GF03,2415000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,OCT-DEC,2003,EUR,1432500,Grant,GF03,1711192.88,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,OCT-DEC,2003,EUR,1432500,Grant,GF03,1711192.88,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,OCT-DEC,2003,NOK,57080000,Grant,GF03,8361649.2,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,OCT-DEC,2003,XDR,1000000,Grant,GF03,1445550,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,OCT-DEC,2003,EUR,1396000,Grant,GF03,1700607.2,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,OCT-DEC,2003,EUR,24000,Grant,GF03,29236.8,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,OCT-DEC,2003,USD,73416561,Grant,GF03,73416561,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,OCT-DEC,2003,AUD,17040000,Grant,GF03,12605340,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,OCT-DEC,2003,EUR,6095000,Grant,GF03,7260364,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,JUL-SEP,2003,EUR,90,Grant,GF03,101.91,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,JAN-MAR,2004,EUR,1000000,Grant,GF03,1277499.99,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Note,JAN-MAR,2004,JPY,12188582500,Grant,GF03,1139632.46,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,JAN-MAR,2004,NZD,3033750,Grant,GF03,1989684.94,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Spain,ES,Cash,JAN-MAR,2004,EUR,7223333,Grant,GF03,8942702.95,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,JAN-MAR,2004,INR,106597500,Grant,GF03,2351588.35,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,JAN-MAR,2004,EUR,1432590,Grant,GF03,1783359.66,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovenia,SI,Cash,JAN-MAR,2004,USD,365514.67,Grant,GF03,365514.67,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Cash,JAN-MAR,2004,EUR,41000000,Grant,GF03,52529200,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Egypt, Arab Republic of",EG,Cash,JAN-MAR,2004,USD,169501,Grant,GF01,169501,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Egypt, Arab Republic of",EG,Cash,JAN-MAR,2004,USD,535524,Grant,GF01,535524,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Cash,JAN-MAR,2004,USD,2999970,Grant,GF03,2999970,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,JAN-MAR,2004,XDR,15597500,Grant,GF03,23090071.08,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,JAN-MAR,2004,USD,1109000,Grant,GF03,1109000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,JAN-MAR,2004,USD,1398554,Grant,GF03,1398554,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Note,JAN-MAR,2004,EUR,6326597.01,Grant,GF02,7726989.26,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Note,JAN-MAR,2004,EUR,6068368.57,Grant,GF02,7411601.95,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,JAN-MAR,2004,USD,30918484,Grant,GF02,30918484,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,JAN-MAR,2004,USD,107500000,Grant,GF03,107500000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,2004,CAD,39735000,Grant,GF03,30280056.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,APR-JUN,2004,GBP,29457500,Grant,GF03,52589001.88,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Nigeria,NG,Cash,APR-JUN,2004,USD,1439700,Grant,GF03,1439700,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,APR-JUN,2004,XDR,15597500,Grant,GF03,22458216.35,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Pakistan,PK,Note,APR-JUN,2004,XDR,1000000,Grant,GF03,1462210,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Pakistan,PK,Note,APR-JUN,2004,XDR,1000000,Grant,GF03,1462210,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,JUL-SEP,2004,EUR,432410,Grant,GF03,531734.58,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,JUL-SEP,2004,EUR,7989000,Grant,GF03,9665092.2,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,OCT-DEC,2004,EUR,1408500,Grant,GF03,1775738.21,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,OCT-DEC,2004,EUR,10495000,Grant,GF03,13613064.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,OCT-DEC,2004,AUD,17040000,Grant,GF03,12756144,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Cash,OCT-DEC,2004,DKK,65210000,Grant,GF03,11381446.9,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,China,CN,Cash,OCT-DEC,2004,USD,2377500,Grant,GF03,2377500,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,OCT-DEC,2004,NZD,3033750,Grant,GF03,2170193.06,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Czech Republic,CZ,Cash,OCT-DEC,2004,USD,1518580,Grant,GF03,1518580,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Note,OCT-DEC,2004,JPY,12188582500,Grant,GF03,1184730.22,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,OCT-DEC,2004,EUR,6095000,Grant,GF03,8078617.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,OCT-DEC,2004,CHF,24767500,Grant,GF03,21644318.25,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,OCT-DEC,2004,USD,73416561,Grant,GF03,73416561,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,OCT-DEC,2004,INR,106597500,Grant,GF03,2452772.66,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,OCT-DEC,2004,NOK,57080000,Grant,GF03,9323447.2,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,JAN-MAR,2005,XDR,1000000,Grant,GF03,1548990,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,JAN-MAR,2005,XDR,15597500,Grant,GF03,23768562.33,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Pakistan,PK,Note,JAN-MAR,2005,XDR,1000000,Grant,GF03,1521690,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,JAN-MAR,2005,EUR,1432500,Grant,GF03,1873137,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,JAN-MAR,2005,EUR,1432590,Grant,GF03,1831709.57,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Note,JAN-MAR,2005,EUR,12394965.58,Grant,GF02,15848202.99,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Spain,ES,Cash,JAN-MAR,2005,EUR,7223333,Grant,GF03,9547801.56,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Cash,JAN-MAR,2005,EUR,41000000,Grant,GF03,53984700,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovenia,SI,Cash,JAN-MAR,2005,USD,380967,Grant,GF03,380967,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,JAN-MAR,2005,USD,106640000,Grant,GF03,106640000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,2005,CAD,39735000,Grant,GF03,32583097.35,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,APR-JUN,2005,GBP,29457500,Grant,GF03,55982505.88,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,APR-JUN,2005,USD,1109000,Grant,GF03,1109000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Pakistan,PK,Note,APR-JUN,2005,XDR,1000000,Grant,GF02,1481950,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,JUL-SEP,2005,EUR,1432500,Grant,GF03,1772074.13,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,JUL-SEP,2005,USD,968947,Grant,GF03,968947,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Note,JUL-SEP,2005,EUR,89175000,Grant,GF03,110492283.8,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Spain,ES,Cash,OCT-DEC,2005,EUR,7223333,Grant,GF03,8679195.77,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,OCT-DEC,2005,EUR,56150,Grant,GF03,67043.1,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Cash,OCT-DEC,2005,DKK,65210000,Grant,GF03,10225009.8,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,OCT-DEC,2005,XDR,1000000,Grant,GF03,1423990,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,OCT-DEC,2005,AUD,17040000,Grant,GF03,12457944,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,OCT-DEC,2005,EUR,1432500,Grant,GF03,1687341.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,OCT-DEC,2005,EUR,6986850,Grant,GF03,8229810.61,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Czech Republic,CZ,Cash,OCT-DEC,2005,USD,1424690,Grant,GF03,1424690,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,China,CN,Cash,OCT-DEC,2005,USD,2377500,Grant,GF03,2377500,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,OCT-DEC,2005,EUR,1432590,Grant,GF03,1693249.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,OCT-DEC,2005,EUR,6095000,Grant,GF03,7203985.25,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Note,OCT-DEC,2005,JPY,12188582500,Grant,GF03,1011652.35,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,OCT-DEC,2005,NOK,57080000,Grant,GF03,8587686,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,OCT-DEC,2005,EUR,1432500,Grant,GF03,1717209.38,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,OCT-DEC,2005,NZD,3033750,Grant,GF03,2086916.63,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,JAN-MAR,2006,USD,73416562,Grant,GF03,73416562,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,JAN-MAR,2006,XDR,15597500,Grant,GF03,22524037.8,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,JAN-MAR,2006,EUR,10494996.29,Grant,GF03,12677955.52,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,JAN-MAR,2006,CHF,24767500,Grant,GF03,19308247.65,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovenia,SI,Cash,JAN-MAR,2006,USD,361962.5,Grant,GF03,361962.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,JAN-MAR,2006,CAD,30583566,Grant,GF03,26637368.48,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,JAN-MAR,2006,INR,106597500,Grant,GF03,2396526.53,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,JAN-MAR,2006,USD,1109000,Grant,GF03,1109000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Italy,IT,Note,JAN-MAR,2006,EUR,29725000,Grant,GF03,35237501.25,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,JAN-MAR,2006,USD,860000,Grant,GF03,860000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,JAN-MAR,2006,USD,78340000,Grant,GF03,78340000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Cash,APR-JUN,2006,EUR,41000000,Grant,GF03,51516500,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,APR-JUN,2006,GBP,29457500,Grant,GF03,52575746,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,2006,CAD,9151434,Grant,GF03,8133520,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,APR-JUN,2006,EUR,1432500,Grant,GF03,1836035.25,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,APR-JUN,2006,EUR,876000,Grant,GF03,1102358.4,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Pakistan,PK,Note,JUL-SEP,2006,XDR,1000000,Grant,GF03,1484470,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,OCT-DEC,2006,EUR,10495000,Grant,GF03,13940508.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,OCT-DEC,2006,AUD,14950000,Grant,GF04,11751447.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,OCT-DEC,2006,NOK,57080000,Grant,GF04,9279495.6,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,OCT-DEC,2006,USD,1500000,Grant,GF04,1500000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,OCT-DEC,2006,EUR,7780000,Grant,GF04,10324526.8,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,OCT-DEC,2006,EUR,1432500,Grant,GF04,1901013.45,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Cash,JAN-MAR,2007,DKK,77500000,Grant,GF04,13609145.35,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Czech Republic,CZ,Cash,JAN-MAR,2007,CZK,35722500,Grant,GF04,1671619.09,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Egypt, Arab Republic of",EG,Cash,JAN-MAR,2007,USD,96166.28,Grant,GF01,96166.28,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Egypt, Arab Republic of",EG,Cash,JAN-MAR,2007,USD,703827,Grant,GF01,703827,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Egypt, Arab Republic of",EG,Cash,JAN-MAR,2007,USD,799993,Grant,GF01,799993,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,JAN-MAR,2007,EUR,1469000,Grant,GF04,1902648.8,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Spain,ES,Cash,JAN-MAR,2007,EUR,4627500,Grant,GF04,5993538,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,JAN-MAR,2007,NZD,2100000,Grant,GF04,1475250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovenia,SI,Cash,JAN-MAR,2007,EUR,1197500,Grant,GF04,1555552.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,South Africa,ZA,Cash,JAN-MAR,2007,USD,1033186.74,Grant,GF04,1033186.74,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Czech Republic,CZ,Cash,JAN-MAR,2007,CZK,107171500,Grant,GF04,4909367.84,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Spain,ES,Cash,JAN-MAR,2007,EUR,13882500,Grant,GF04,17994496.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Note,JAN-MAR,2007,SEK,212500000,Grant,GF04,30145250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Note,JAN-MAR,2007,SEK,212500000,Grant,GF04,30145250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Note,JAN-MAR,2007,SEK,212500000,Grant,GF04,30145250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Sweden,SE,Note,JAN-MAR,2007,SEK,212500000,Grant,GF04,30145250,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,JAN-MAR,2007,EUR,1197500,Grant,GF04,1582675.88,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Note,JAN-MAR,2007,JPY,8421992500,Grant,GF04,705762.97,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,JAN-MAR,2007,USD,69365750,Grant,GF04,69365750,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,China,CN,Cash,APR-JUN,2007,USD,2377500,Grant,GF04,2377500,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,APR-JUN,2007,INR,99450000,Grant,GF04,2303149.61,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,APR-JUN,2007,MXN,14460000,Grant,GF04,1333210.4,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,APR-JUN,2007,XDR,1000000,Grant,GF04,1518080,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,JUL-SEP,2007,EUR,11544995.51,Grant,GF04,15570735.44,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,OCT-DEC,2007,USD,1299980,Grant,GF04,1299980,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,China,CN,Cash,OCT-DEC,2007,USD,2377500,Grant,GF04,2377500,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Cash,OCT-DEC,2007,DKK,77500000,Grant,GF04,15426262.47,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,OCT-DEC,2007,NZD,2100000,Grant,GF04,1605870,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,OCT-DEC,2007,CHF,22000000,Grant,GF04,19605300,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,OCT-DEC,2007,XDR,1000000,Grant,GF04,1589750,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,OCT-DEC,2007,USD,69365750,Grant,GF04,69365750,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,OCT-DEC,2007,EUR,6095000,Grant,GF04,8978849.25,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,South Africa,ZA,Cash,APR-JUN,2008,ZAR,8000000,Grant,GF04,989486.7,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,South Africa,ZA,Cash,APR-JUN,2008,ZAR,1000000,Grant,GF04,123685.84,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,JUL-SEP,2007,EUR,1432500,Grant,GF04,1933516.88,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,JUL-SEP,2007,EUR,90,Grant,GF04,121.48,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,JUL-SEP,2007,GBP,35000000,Grant,GF04,70792750,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,OCT-DEC,2007,EUR,1420000,Grant,GF04,2078028,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,OCT-DEC,2007,EUR,7780000,Grant,GF04,11466942,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Note,OCT-DEC,2007,JPY,8421992500,Grant,GF04,767243.52,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,OCT-DEC,2007,NOK,57080000,Grant,GF04,10406254.8,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,South Africa,ZA,Cash,JAN-MAR,2007,ZAR,4515020,Grant,GF04,610791.91,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,South Africa,ZA,Cash,JAN-MAR,2007,ZAR,3484980,Grant,GF04,471448.09,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,2007,CAD,36270000,Grant,GF04,32740566.3,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,JUL-SEP,2007,EUR,22345000,Grant,GF04,30517683.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,JUL-SEP,2007,EUR,22345000,Grant,GF04,30517683.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,JUL-SEP,2007,EUR,22345000,Grant,GF04,30517683.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Netherlands,NL,Note,JUL-SEP,2007,EUR,22345000,Grant,GF04,30517683.75,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,OCT-DEC,2007,CHF,22000000,Grant,GF04,19605300,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovenia,SI,Cash,JAN-MAR,2008,EUR,1197500,Grant,GF04,1750266,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Cash,JAN-MAR,2008,USD,17537000,Grant,GF04,17537000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,JAN-MAR,2008,AUD,14950000,Grant,GF04,14035807.5,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,JAN-MAR,2008,EUR,1197500,Grant,GF04,1800920.25,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,2008,CAD,36270000,Grant,GF04,35795588.4,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,APR-JUN,2008,GBP,35000000,Grant,GF04,69105750,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,JAN-MAR,2007,USD,79200000,Grant,GF04,79200000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Cash,JAN-MAR,2002,USD,13352348.81,Grant,GF02,13352348.81,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Cash,APR-JUN,2007,USD,43060000,Grant,GF04,43060000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,JUL-SEP,2007,EUR,6095000,Grant,GF04,8306266,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,India,IN,Cash,JAN-MAR,2008,INR,89527500,Grant,GF04,2266518.99,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,JAN-MAR,2008,EUR,1432410,Grant,GF04,2107003.49,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,JAN-MAR,2008,USD,80000000,Grant,GF04,80000000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,JAN-MAR,2008,USD,1100720,Grant,GF03,1100720,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,APR-JUN,2008,EUR,1432500,Grant,GF04,2257620,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Cash,APR-JUN,2008,USD,43060000,Grant,GF04,43060000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,JUL-SEP,2008,USD,1600000,Grant,GF04,1600000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,APR-JUN,2009,MXN,14460000,Grant,GF04,1055782.71,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,France,FR,Cash,APR-JUN,2009,USD,43060000,Grant,GF04,43060000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,South Africa,ZA,Cash,APR-JUN,2009,ZAR,3380020,Grant,GF04,418060.61,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,"Korea, Republic of",KR,Cash,APR-JUN,2009,USD,1599987,Grant,GF04,1599987,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Denmark,DK,Cash,OCT-DEC,2008,DKK,77500000,Grant,GF04,13366678.16,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,New Zealand,NZ,Note,OCT-DEC,2008,NZD,2100000,Grant,GF04,1144500,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Greece,GR,Cash,JAN-MAR,2009,EUR,1432500,Grant,GF04,1876718.25,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Luxembourg,LU,Note,JAN-MAR,2009,EUR,1197500,Grant,GF04,1530105.63,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Canada,CA,Note,APR-JUN,2009,CAD,33936629.66,Grant,GF04,28527809.62,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United Kingdom,GB,Note,APR-JUN,2009,GBP,35000000,Grant,GF04,57351000,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Mexico,MX,Cash,JUL-SEP,2008,MXN,14460000,Grant,GF04,1402589.84,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Austria,AT,Note,OCT-DEC,2008,EUR,6095000,Grant,GF04,7857369.25,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,JAN-MAR,2009,USD,34881419,Grant,GF04,34881419,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Norway,NO,Note,JAN-MAR,2009,NOK,57080000,Grant,GF04,8494074.8,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Germany,DE,Note,JAN-MAR,2009,USD,69365750,Grant,GF04,69365750,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Ireland,IE,Cash,OCT-DEC,2008,EUR,1420000,Grant,GF04,1778692,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Australia,AU,Note,OCT-DEC,2008,AUD,14950000,Grant,GF04,9693580,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Turkey,TR,Note,OCT-DEC,2008,XDR,1000000,Grant,GF04,1476860,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Portugal,PT,Note,OCT-DEC,2008,EUR,1432500,Grant,GF04,1801440.38,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Finland,FI,Cash,OCT-DEC,2008,EUR,7780000,Grant,GF04,9820694,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Switzerland,CH,Note,OCT-DEC,2008,CHF,22000000,Grant,GF04,18348660,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Japan,JP,Note,OCT-DEC,2008,JPY,8421992500,Grant,GF04,884309.21,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Belgium,BE,Cash,APR-JUN,2009,EUR,11545000,Grant,GF04,15731217,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,South Africa,ZA,Cash,APR-JUN,2009,ZAR,5619980,Grant,GF04,695111.93,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,United States,US,Note,APR-JUN,2009,USD,45118581,Grant,GF04,45118581,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Argentina,AR,Cash,JUL-SEP,2009,USD,159371,Grant,GF01,159371,Environment/Climate Change
+2013-12-31T00:00:00,Global Environment Facility,Slovenia,SI,Cash,JAN-MAR,2009,EUR,1197500,Grant,GF04,1532440.75,Environment/Climate Change
